@@ -48,6 +48,9 @@
   margin-bottom: 1rem;
   color: black;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 * body .container .box button:hover {
   cursor: pointer;
