@@ -52,6 +52,9 @@
                     background: rgb(159, 37, 30);
                     margin-top: 2rem;
                     margin-bottom: 1rem;
+                    &:hover{
+                        cursor: pointer;
+                    }
                 }
                 h2{
                     background: white;
