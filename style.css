@@ -47,6 +47,9 @@
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
+button:hover{
+  cursor: pointer;
+}
 * body .container .box h2 {
   background: white;
 }/*# sourceMappingURL=style.css.map */
