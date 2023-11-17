@@ -46,8 +46,10 @@
   background: rgb(159, 37, 30);
   margin-top: 2rem;
   margin-bottom: 1rem;
+  color: black;
+  text-align: center;
 }
-button:hover{
+* body .container .box button:hover {
   cursor: pointer;
 }
 * body .container .box h2 {
